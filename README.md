@@ -1,9 +1,9 @@
 # SoundManager
 This isnt done wripper library for simple contro; Audio Mixer (WinAPI (WASAPI))
 
-##Features
+## Features
 Add more function
 Add crossplatform (but it isnt true)
 
-##Targer 
+## Targer 
 For DIY Sound Mixer
